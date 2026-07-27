@@ -1,7 +1,7 @@
 # 🫀 Minal AI CardioPulse
 
 <p align="center">
-  <h1 align="center">🫀 AI-Powered Heart Disease Prediction System</h1>
+  <h1 align="center"> AI-Powered Heart Disease Prediction System</h1>
   <p align="center">
     Predict heart disease risk using Machine Learning with an intuitive Streamlit web application.
   </p>
