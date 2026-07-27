@@ -1,24 +1,235 @@
-# 🫀 CardioPulse AI — Precision Clinical Diagnostic Suite
-**Developed by:** Minal Sadiq  
-**Lab:** Minal AI Lab
+# ❤️ Minal AI CardioPulse
 
-CardioPulse AI is a state-of-the-art Deep Neural Risk Evaluator designed to assess cardiovascular health risk using 6 critical clinical vitals. Built with a custom Cyber-Glass dark UI, interactive Radar visualizers, and instant clinical report generation.
+<p align="center">
+  <h1 align="center">🫀 AI-Powered Heart Disease Prediction System</h1>
+  <p align="center">
+    Predict heart disease risk using Machine Learning with an intuitive Streamlit web application.
+  </p>
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?style=for-the-badge&logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?style=for-the-badge&logo=numpy)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
 
 ---
 
-## ✨ Features & Architecture
+## 🌐 Live Demo
 
-* **Neural Inference Engine:** Multi-Layer Artificial Neural Network (ANN) trained on heart disease clinical indicators.
-* **Cyber-Glass UI:** Modern, dark-themed responsive interface powered by Streamlit.
-* **Multi-Dimensional Diagnostics:** Real-time Radar Chart comparing patient metrics with healthy physiological benchmarks.
-* **Risk Impact Analysis:** Interactive feature contribution analysis highlighting key risk factors.
-* **Clinical Documentation:** Automated downloadable `.txt` medical evaluation reports.
+🔗 **App:** https://minal-ai-cardiopulse-9nofl4lxdqtf2vmmqexebg.streamlit.app/
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/minalsadiq/Minal-AI-CardioPulse
 
 ---
 
-## 🛠️ Installation & Local Setup
+# 📖 Project Overview
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/Minal-AI-CardioPulse.git](https://github.com/YOUR_GITHUB_USERNAME/Minal-AI-CardioPulse.git)
-   cd Minal-AI-CardioPulse
+**Minal AI CardioPulse** is an AI-powered Heart Disease Prediction System developed using **Machine Learning** and deployed with **Streamlit**. The application predicts the likelihood of heart disease based on clinical patient information, providing users with quick, accurate, and user-friendly predictions.
+
+This project demonstrates an end-to-end Machine Learning workflow, including data preprocessing, feature engineering, model training, evaluation, serialization, and deployment as a web application.
+
+---
+
+# ✨ Key Features
+
+✅ AI-powered heart disease prediction
+
+✅ Interactive and responsive Streamlit interface
+
+✅ Instant prediction results
+
+✅ User-friendly input form
+
+✅ Real-time inference using a trained ML model
+
+✅ Clean and professional UI
+
+✅ Lightweight and cloud deployable
+
+---
+
+# 🎯 Objectives
+
+- Predict the probability of heart disease using Machine Learning.
+- Provide an intuitive interface for non-technical users.
+- Demonstrate an end-to-end ML deployment pipeline.
+- Showcase practical AI application development.
+
+---
+
+# 🧠 Machine Learning Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Data Preprocessing
+5. Feature Engineering
+6. Model Training
+7. Model Evaluation
+8. Model Serialization (Joblib/Pickle)
+9. Streamlit Deployment
+
+---
+
+# 📊 Input Features
+
+The prediction model uses the following medical attributes:
+
+- Age
+- Sex
+- Chest Pain Type
+- Resting Blood Pressure
+- Cholesterol
+- Fasting Blood Sugar
+- Resting ECG
+- Maximum Heart Rate
+- Exercise-Induced Angina
+- ST Depression (Oldpeak)
+- Slope of Peak Exercise ST Segment
+- Number of Major Vessels
+- Thalassemia
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Programming Language | Python |
+| Machine Learning | Scikit-learn |
+| Data Processing | Pandas, NumPy |
+| Web Framework | Streamlit |
+| Model Storage | Joblib / Pickle |
+| Version Control | Git & GitHub |
+
+---
+
+# 📂 Project Structure
+
+```text
+Minal-AI-CardioPulse/
+│
+├── app.py
+├── requirements.txt
+├── model.pkl
+├── dataset/
+├── notebooks/
+├── assets/
+├── screenshots/
+└── README.md
+```
+
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/minalsadiq/Minal-AI-CardioPulse.git
+```
+
+Navigate to the project
+
+```bash
+cd Minal-AI-CardioPulse
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+# 📸 Application Preview
+
+> Add screenshots of your application here.
+
+Example:
+
+```
+screenshots/
+│
+├── Home_Page.png
+├── Prediction_Page.png
+└── Result_Page.png
+```
+
+---
+
+# 📈 Future Improvements
+
+- SHAP Explainable AI
+- Prediction Confidence Score
+- PDF Medical Report
+- User Authentication
+- Database Integration
+- Multiple ML Model Comparison
+- Docker Containerization
+- CI/CD Pipeline
+- Cloud Monitoring
+- REST API Integration
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork this repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# 👩‍💻 Author
+
+## **Minal Sadiq**
+
+**BS Data Science Student | AI & Machine Learning Enthusiast**
+
+🌐 GitHub: https://github.com/minalsadiq
+
+💼 LinkedIn: *(Add your LinkedIn profile here)*
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or inspiring:
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with others
+
+Your support is greatly appreciated!
+
+---
+
+> **"Building intelligent solutions through Data Science, Machine Learning, and Artificial Intelligence."**
