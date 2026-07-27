@@ -1,6 +1,5 @@
 streamlit
 keras
-tensorflow
 numpy
 pandas
 plotly
