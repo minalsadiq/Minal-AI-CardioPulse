@@ -4,7 +4,17 @@ Developed by: Minal Sadiq
 """
 
 import joblib
+import os
 
+os.environ["KERAS_BACKEND"] = "tensorflow"
+
+import joblib
+import keras
+import numpy as np
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import streamlit as st
 # Keras Standalone Import to maintain Python 3.13 stability
 import keras
 import numpy as np
