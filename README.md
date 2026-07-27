@@ -1,4 +1,4 @@
-# ❤️ Minal AI CardioPulse
+# 🫀 Minal AI CardioPulse
 
 <p align="center">
   <h1 align="center">🫀 AI-Powered Heart Disease Prediction System</h1>
@@ -84,7 +84,6 @@ This project demonstrates an end-to-end Machine Learning workflow, including dat
 The prediction model uses the following medical attributes:
 
 - Age
-- Sex
 - Chest Pain Type
 - Resting Blood Pressure
 - Cholesterol
@@ -158,18 +157,10 @@ streamlit run app.py
 ---
 
 # 📸 Application Preview
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-│
-├── Home_Page.png
-├── Prediction_Page.png
-└── Result_Page.png
-```
+<img width="1919" height="906" alt="1" src="https://github.com/user-attachments/assets/129d89d1-a569-4002-854f-d698bc8bb518" />
+<img width="1919" height="908" alt="2" src="https://github.com/user-attachments/assets/2fe97b96-11a2-415a-9247-98cc81f54493" />
+<img width="1919" height="903" alt="3" src="https://github.com/user-attachments/assets/e252a165-dc03-4e9b-aec1-b5b6723fab56" />
+<img width="1919" height="906" alt="4" src="https://github.com/user-attachments/assets/c1a9318f-316b-438f-a268-58f6f48ee8a7" />
 
 ---
 
@@ -214,7 +205,7 @@ This project is licensed under the **MIT License**.
 
 🌐 GitHub: https://github.com/minalsadiq
 
-💼 LinkedIn: *(Add your LinkedIn profile here)*
+💼 LinkedIn: https://www.linkedin.com/in/minal-sadiq-4994b9372/
 
 ---
 
